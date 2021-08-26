@@ -57,6 +57,8 @@ for group in groups:
     input_box = browser.find_element_by_xpath(input_xpath)
 
     pyperclip.copy(msg)
+    
+for i in range(100):
     input_box.send_keys(Keys.CONTROL , "v")
     input_box.send_keys(Keys.ENTER)
 

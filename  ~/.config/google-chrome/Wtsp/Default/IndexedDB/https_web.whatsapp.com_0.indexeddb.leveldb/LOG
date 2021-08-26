@@ -1,3 +1,12 @@
-2021/08/26-15:21:15.260 6fba Reusing MANIFEST /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/26-15:21:15.260 6fba Recovering log #4
-2021/08/26-15:21:15.333 6fba Reusing old log /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2021/08/26-15:37:59.913 7772 Reusing MANIFEST /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/26-15:37:59.913 7772 Recovering log #4
+2021/08/26-15:37:59.999 7772 Reusing old log /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2021/08/26-15:39:59.970 7766 Level-0 table #8: started
+2021/08/26-15:39:59.999 7766 Level-0 table #8: 1172056 bytes OK
+2021/08/26-15:40:00.003 7766 Delete type=0 #4
+2021/08/26-15:40:06.207 7772 Compacting 1@1 + 1@2 files
+2021/08/26-15:40:06.290 7772 Generated table #9@1: 21543 keys, 859103 bytes
+2021/08/26-15:40:06.290 7772 Compacted 1@1 + 1@2 files => 859103 bytes
+2021/08/26-15:40:06.292 7772 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/26-15:40:06.292 7772 Delete type=2 #8
+2021/08/26-15:40:06.292 7772 Delete type=2 #5
