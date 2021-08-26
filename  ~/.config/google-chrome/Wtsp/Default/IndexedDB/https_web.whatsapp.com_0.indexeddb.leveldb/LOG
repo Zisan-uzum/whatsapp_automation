@@ -1,12 +1,36 @@
-2021/08/26-15:37:59.913 7772 Reusing MANIFEST /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/26-15:37:59.913 7772 Recovering log #4
-2021/08/26-15:37:59.999 7772 Reusing old log /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
-2021/08/26-15:39:59.970 7766 Level-0 table #8: started
-2021/08/26-15:39:59.999 7766 Level-0 table #8: 1172056 bytes OK
-2021/08/26-15:40:00.003 7766 Delete type=0 #4
-2021/08/26-15:40:06.207 7772 Compacting 1@1 + 1@2 files
-2021/08/26-15:40:06.290 7772 Generated table #9@1: 21543 keys, 859103 bytes
-2021/08/26-15:40:06.290 7772 Compacted 1@1 + 1@2 files => 859103 bytes
-2021/08/26-15:40:06.292 7772 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/08/26-15:40:06.292 7772 Delete type=2 #8
-2021/08/26-15:40:06.292 7772 Delete type=2 #5
+2021/08/26-19:12:55.816 40fa Reusing MANIFEST /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/26-19:12:55.816 40fa Recovering log #28
+2021/08/26-19:12:55.835 40fa Reusing old log /home/zisan/oray/ ~/.config/google-chrome/Wtsp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
+2021/08/26-19:15:03.936 40df Level-0 table #34: started
+2021/08/26-19:15:03.964 40df Level-0 table #34: 1313496 bytes OK
+2021/08/26-19:15:03.967 40df Delete type=0 #28
+2021/08/26-19:15:06.030 40fb Compacting 1@1 + 2@2 files
+2021/08/26-19:15:06.118 40fb Generated table #35@1: 48566 keys, 2295070 bytes
+2021/08/26-19:15:06.130 40fb Generated table #36@1: 473 keys, 483246 bytes
+2021/08/26-19:15:06.130 40fb Compacted 1@1 + 2@2 files => 2778316 bytes
+2021/08/26-19:15:06.134 40fb compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/08/26-19:15:06.134 40fb Delete type=2 #30
+2021/08/26-19:15:06.134 40fb Delete type=2 #31
+2021/08/26-19:15:06.134 40fb Delete type=2 #34
+2021/08/26-19:18:17.875 40fc Level-0 table #38: started
+2021/08/26-19:18:17.921 40fc Level-0 table #38: 1312353 bytes OK
+2021/08/26-19:18:17.924 40fc Delete type=0 #33
+2021/08/26-19:18:20.084 40fb Compacting 1@1 + 2@2 files
+2021/08/26-19:18:20.152 40fb Generated table #39@1: 52006 keys, 2308119 bytes
+2021/08/26-19:18:20.170 40fb Generated table #40@1: 719 keys, 789542 bytes
+2021/08/26-19:18:20.170 40fb Compacted 1@1 + 2@2 files => 3097661 bytes
+2021/08/26-19:18:20.174 40fb compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/08/26-19:18:20.174 40fb Delete type=2 #35
+2021/08/26-19:18:20.174 40fb Delete type=2 #38
+2021/08/26-19:18:20.174 40fb Delete type=2 #36
+2021/08/26-19:21:05.929 40fc Level-0 table #42: started
+2021/08/26-19:21:05.975 40fc Level-0 table #42: 1217596 bytes OK
+2021/08/26-19:21:05.981 40fc Delete type=0 #37
+2021/08/26-19:21:08.064 40f9 Compacting 1@1 + 2@2 files
+2021/08/26-19:21:08.120 40f9 Generated table #43@1: 56947 keys, 2248668 bytes
+2021/08/26-19:21:08.142 40f9 Generated table #44@1: 782 keys, 1085137 bytes
+2021/08/26-19:21:08.142 40f9 Compacted 1@1 + 2@2 files => 3333805 bytes
+2021/08/26-19:21:08.146 40f9 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/08/26-19:21:08.146 40f9 Delete type=2 #40
+2021/08/26-19:21:08.146 40f9 Delete type=2 #39
+2021/08/26-19:21:08.146 40f9 Delete type=2 #42

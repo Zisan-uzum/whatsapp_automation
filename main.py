@@ -56,10 +56,16 @@ for group in groups:
     input_xpath = '//div[@contenteditable="true"][@data-tab="6"]'
     input_box = browser.find_element_by_xpath(input_xpath)
 
-    pyperclip.copy(msg)
     
-for i in range(100):
-    input_box.send_keys(Keys.CONTROL , "v")
-    input_box.send_keys(Keys.ENTER)
+    array_list = msg.split('\n')
 
-    time.sleep(2)
+for i in range(100):
+
+    for j in range(4):
+
+        pyperclip.copy(array_list[j])
+        input_box.send_keys(Keys.CONTROL , "v")
+        input_box.send_keys(Keys.ENTER)
+        time.sleep(0.5)
+
+browser.close()
