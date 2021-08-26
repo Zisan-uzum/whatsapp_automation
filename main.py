@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import pyperclip
+import random
 from selenium.webdriver.support.expected_conditions import staleness_of
 from config import CHROME_PROFILE_PATH
 

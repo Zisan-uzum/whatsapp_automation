@@ -1,4 +1,4 @@
-[8796:8796:0826/095445.871137:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[8753:8753:0826/095447.339833:WARNING:CONSOLE(82)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://www.google.com/logos/2020/kitsune/rc7/kitsune20.js (82)
-[8753:8753:0826/095447.339889:WARNING:CONSOLE(83)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://www.google.com/logos/2020/kitsune/rc7/kitsune20.js (83)
-[8753:8753:0826/095606.229829:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[28587:28587:0826/152113.295161:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[28544:28544:0826/152114.877729:WARNING:CONSOLE(82)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://www.google.com/logos/2020/kitsune/rc7/kitsune20.js (82)
+[28544:28544:0826/152114.878237:WARNING:CONSOLE(83)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://www.google.com/logos/2020/kitsune/rc7/kitsune20.js (83)
+[28544:28544:0826/152310.856043:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
