@@ -1,0 +1,1 @@
+CHROME_PROFILE_PATH = "user-data-dir= ~//.config//google-chrome//Wtsp"
